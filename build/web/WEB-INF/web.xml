@@ -1,0 +1,4 @@
+<servlet-mapping>
+        <servlet-name>NewServlet</servlet-name>
+        <url-pattern>/NewServlet?a=b</url-pattern>
+    </servlet-mapping>
